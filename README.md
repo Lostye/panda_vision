@@ -1,3 +1,8 @@
+#此项目是修改开源tensorrtx中的C++部署yolov5方法来实现熊猫视觉
+#部署代码对于每个包的版本控制很严格，找不到以往版本的包的话只能用新的来改写
+
+[tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+
 # yolov5
 
 The Pytorch implementation is [ultralytics/yolov5](https://github.com/ultralytics/yolov5).
